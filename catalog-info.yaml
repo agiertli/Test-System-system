@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: Test-System
+  description: Test System
+spec:
+  owner: group:default/agiertli
